@@ -1,5 +1,7 @@
 # laravel_crud_auth_login
+
 add .env file in root folder
+-----------------------------
 
 APP_NAME=Laravel
 APP_ENV=local
